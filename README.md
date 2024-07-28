@@ -1,6 +1,7 @@
 ![logo](https://github.com/Ayushtiwari2002/Ayushtiwari2002/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ayush Kumar Tiwari</h1>
-<h3 align="center">I am Ayush Kumar Tiwari, a passionate full stack developer and coder with a solid foundation in Computer Science and Engineering from DIT University. With a keen eye for detail and a knack for solving complex problems, I excel in building robust and scalable web applications. My proficiency spans across both front-end and back-end technologies, making me a versatile asset in the tech industry. Driven by a love for coding and an aspiration to innovate, I constantly seek new challenges to enhance my skills. Whether it's developing user-friendly interfaces or designing efficient databases, I am dedicated to delivering high-quality solutions that meet the needs of users and businesses alike</h3>
+<h3 align="center"># 💫 About Me:
+🟢Currently enrolled in Bachelors' in Computer Science Engineering in DIT University<br>👯Up for Collaborations in Java/Javascript/React<br>🤝Looking for help in React<br>🌱Currently learning Solidity Basics<br>💡Always keen to learn new things and up for challenges</h3><br><br>
 <img align="center" alt="coding" width="400" src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.webp?cid=ecf05e47ge59v2pgzvrmfsicyo3neceivh0b3n4x8dzns1ws&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushtiwari2002&label=Profile%20views&color=0e75b6&style=flat" alt="ayushtiwari2002" /> </p>
